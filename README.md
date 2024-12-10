@@ -2,13 +2,8 @@
 
 :warning: _**Please Note:** This project is old and no longer supported. The code base is over 12 years old. There are bugs and things are not optimized or coded in the best manner. I do not support or maintain this project any longer._
 
-## Donations
-
-Enjoy my work and want to say thank you? You can support me and my projects in various ways:
-
-  - **Paypal:** https://paypal.me/atom0s
-  - **Patreon:** https://patreon.com/atom0s
-  - **GitHub Sponsors:** https://github.com/sponsors/atom0s
+## Donation
+Coming Soon!!!
 
 ## Screenshots
 
